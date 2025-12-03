@@ -134,3 +134,11 @@
   height: 25%;
   border-image-width: 10px;
 }
+
+.footer-container {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+  margin-top: 40px;
+}
