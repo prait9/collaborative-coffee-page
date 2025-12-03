@@ -47,7 +47,9 @@
 
 .nav-link:hover {
   color: #b8860b;
+  cursor: pointer;
 }
+
 
 .header-actions {
   display: flex;
