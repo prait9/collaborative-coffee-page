@@ -111,3 +111,26 @@
   }
 }
 /* Header */
+
+.body-section {
+  padding: 40px 20px;
+  background-color: #f9f9f9;
+}
+
+.body-text {
+  max-width: 800px;
+  margin: 0 auto;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #555;
+}
+
+.body-image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 25px auto;
+  width: 50%;
+  height: 25%;
+  border-image-width: 10px;
+}
